@@ -1,0 +1,1 @@
+# ZxingWidget-hicool
